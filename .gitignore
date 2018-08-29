@@ -39,8 +39,3 @@ nbproject/*
 # Sass preprocessor
 .sass-cache/
 
-# Others
-.editorconfig
-.gitattributes
-/bin/*
-.github/*
